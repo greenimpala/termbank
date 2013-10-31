@@ -1,6 +1,6 @@
 # termbank
 
-Bank like it's 1960. View bank account details and statements in the terminal.
+Bank like it's 1980. View bank account details and statements in the terminal.
 
 For Lloyds bank customers only. Essentially a reverse engineer of their login protocol with some messy screen-scraping.
 
