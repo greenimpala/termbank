@@ -1,6 +1,6 @@
 # termbank
 
-Bank like it's 1960. View account details and statements in the terminal.
+Bank like it's 1960. View bank account details and statements in the terminal.
 
 ## Supported Banks
 
