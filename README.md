@@ -1,10 +1,8 @@
 # termbank
 
-Bank like it's 1960. View bank account details and statements in the terminal.
+Bank like it's 1980. View bank account details and statements in the terminal.
 
-## Supported Banks
-
-* Lloyds
+For Lloyds bank customers only. Essentially a reverse engineer of their login protocol with some messy screen-scraping.
 
 ## Usage
 
@@ -31,7 +29,7 @@ Balance: £xxxx.xx
 Fetching statement...
 
 Transaction  Sort Code  Account Numb  Transaction   Debit Amount  Balance
-30/10/2013   99-99-99  12345678       TESCO STORES  5.15          1006.64
-29/10/2013   99-99-99  12345678       TESCO STORES  5.63          1011.79
+30/10/2013   99-99-99   12345678      TESCO STORES  5.15          1006.64
+29/10/2013   99-99-99   12345678      TESCO STORES  5.63          1011.79
 ...
 ```
