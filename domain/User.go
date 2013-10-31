@@ -2,12 +2,12 @@ package domain
 
 import (
 	"github.com/PuerkitoBio/goquery"
-	"github.com/st3redstripe/termbank/parser"
 	"io/ioutil"
 	"net/http"
 	"net/http/cookiejar"
 	"net/url"
 	"strings"
+	"termbank/parser"
 )
 
 const (

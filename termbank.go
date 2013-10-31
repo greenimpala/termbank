@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/st3redstripe/termbank/domain"
-	"github.com/st3redstripe/termbank/renderer"
+	"termbank/domain"
+	"termbank/renderer"
 )
 
 var (
