@@ -30,8 +30,8 @@ Account: Account 1
 Balance: £xxxx.xx
 Fetching statement...
 
-Transaction 	Transaction 	Sort Code	Account Numb	Transaction 	Debit Amount	Balance
-30/10/2013  	DEB         	'99-99-99	12345678    	TESCO STORES	5.15        	1006.64
-29/10/2013  	DEB         	'99-99-99	12345678    	TESCO STORES 	5.63        	1011.79
+Transaction  Sort Code  Account Numb  Transaction   Debit Amount  Balance
+30/10/2013   '99-99-99  12345678      TESCO STORES  5.15          1006.64
+29/10/2013   '99-99-99  12345678      TESCO STORES  5.63          1011.79
 ...
 ```
