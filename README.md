@@ -2,9 +2,7 @@
 
 Bank like it's 1960. View bank account details and statements in the terminal.
 
-## Supported Banks
-
-* Lloyds
+For Lloyds bank customers only. Essentially a reverse engineer of their login protocol with some messy screen-scraping.
 
 ## Usage
 
