@@ -2,9 +2,9 @@ package renderer
 
 import (
 	"fmt"
+	"github.com/st3redstripe/termbank/domain"
 	"golumn"
 	"strconv"
-	"termbank/domain"
 )
 
 func PrintAccountList(user *domain.User) {

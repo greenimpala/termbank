@@ -1,11 +1,11 @@
 package domain
 
 import (
+	"github.com/st3redstripe/termbank/parser"
 	"io/ioutil"
 	"net/http"
 	"net/url"
 	"strings"
-	"termbank/parser"
 )
 
 type Account struct {
