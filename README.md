@@ -6,7 +6,13 @@ For Lloyds bank customers only. Essentially a reverse engineer of their login pr
 
 ## Usage
 
-Just run `termbank` and follow the instructions.
+Assuming your `$PATH` contains `$GOPATH/bin` then download and compile with:
+
+```bash
+$ go get github.com/st3redstripe/termbank
+``` 
+
+Execute `termbank` and follow the instructions.
 
 Typical program run:
 
