@@ -3,7 +3,7 @@ package renderer
 import (
 	"fmt"
 	"github.com/st3redstripe/termbank/domain"
-	"golumn"
+	"github.com/st3redstripe/golumn"
 	"strconv"
 )
 
